@@ -6,3 +6,11 @@
 - Listen to Port 7777 (using express.js)
 - Write request handlers (using express.js)
 - Install nodemon  and update scripts inside package.json (npm install -g nodemon)
+- Play with routes and route extensions ex :- /hello, /, /hello/2, /xyz
+- Order of routes matter a lot 
+- Install Postman and make a workspace/collection and make an api call 
+- Write the logic to handle GET,POST,PATCH,DELETE API Calls and test them on Postman
+- Explore routing and use of ?, +, (), *, in the routes
+- Use of regex in routes
+- Reading the query params in the routes
+- Reading the dynamic routes
