@@ -1,0 +1,8 @@
+- Create a repository (creating folder)
+- Initialze the repository (npm init)
+- node_modules,package.json,package-lock.json
+- Install Express.js (npm install express)
+- Create a Server (using express.js)
+- Listen to Port 7777 (using express.js)
+- Write request handlers (using express.js)
+- Install nodemon  and update scripts inside package.json (npm install -g nodemon)
