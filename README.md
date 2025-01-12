@@ -14,3 +14,14 @@
 - Use of regex in routes
 - Reading the query params in the routes
 - Reading the dynamic routes
+- Mutliple route handlers - Play with the code 
+- next()
+- app.use("/route", [route1,route2,route3])
+- what is middlware ?
+- Why we need middleware ?
+- how express.js handles requests behind the scenes
+-  Difference between app.use() vs app.all()
+- Wirte a dummy auth middleware for admin
+- Write a dummy auth middleware for user
+- Error Handling
+
