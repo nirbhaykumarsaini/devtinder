@@ -25,3 +25,24 @@
 - Write a dummy auth middleware for user
 - Error Handling
 
+- Connect to MongoDB Database
+- Create a free cluster on MongoDB
+- Install mongoose 
+- Connect your application  to the database
+- Call the connectDB function and connect to database before starting application on server(http.localhost:/3000)
+- Create a User Schema and User Model
+- Create a POST /signup API to add data to database
+- Push  some documents using API calls from postman
+- Error Handling using try catch
+
+- 16/01/2025
+
+- JS Object Vs JSON
+- Add the express.json() middleware to your app
+- Make your signup api dynamic to recive data from the end user
+- API - Get /user - get user by email
+- API - Get /feed - get all users from the database
+- API - Get /userbyid - get user by _id
+- API - Delete /user - delete user by id
+- API - Patch /user - update the user by id and email also
+- What is the options in a Model.findOneAndUpdate mothod ,explore more about it
